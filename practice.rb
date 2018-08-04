@@ -8,4 +8,4 @@ puts "Over how many months will this loan continue?"
 months = gets.chomp.to_i
 
 principal = loanamount / months
-monthlypremium = principal(1+(rate/12))^(12/)
+monthlypremium = principal(1+(rate/12))^(months)
