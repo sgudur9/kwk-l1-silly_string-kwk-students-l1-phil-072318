@@ -8,7 +8,7 @@ def calculator
     elsif time < 17
     puts "Good afternoon."
     
-    elsif time =< 24
+    elsif time <= 24
     puts "Good evening."
     
   else time > 24
