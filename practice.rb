@@ -1,7 +1,6 @@
-puts "Please enter a value:"
-value=gets.chomp
-puts "Please enter a second value:"
-second_value=gets.chomp
+puts "What is your favorite food?"
+food=gets.chomp.downcase
 
-result=value*second_value
-puts "result =" result
+puts="Why is this your favorite food?"
+why=gets.chomp.downcase
+
