@@ -7,4 +7,4 @@ rate = gets.chomp.to_i
 puts "Over how many months will this loan continue?"
 months = gets.chomp.to_i
 
-principle = 
+principal = 
