@@ -1,5 +1,5 @@
-puts "What is your favorite food?"
-food=gets.chomp
-puts="Why is this your favorite food?"
-why=gets.chomp
-puts "So you like #{food} because #{why}?"
+puts "What is your favorite show?"
+show = gets.chomp
+puts "Why is this your favorite show?"
+reason = gets.chomp
+puts "Your favorite show is #{show} because #{reason}"
