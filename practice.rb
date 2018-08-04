@@ -10,4 +10,4 @@ months = gets.chomp.to_i
 $principal = loanamount / months 
 $monthlypremium = $principal [1 + ( (rate/100) / 12)] ^ (months)
 
-puts "Your loan payback amount will be #{$montlypremium} over #{months}."
+puts "Your loan payback amount will be #{$montlypremium} over #{months} months."
