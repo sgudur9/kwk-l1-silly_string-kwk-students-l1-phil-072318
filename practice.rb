@@ -14,6 +14,6 @@ def calculator
   else time > 24
     puts "invalid."
     
-    end"
+  end
     
 end
