@@ -17,3 +17,5 @@ def calculator
   end
     
 end
+
+calculator
