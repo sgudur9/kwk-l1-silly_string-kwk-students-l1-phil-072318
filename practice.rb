@@ -1,8 +1,8 @@
 puts "What is your favorite food?"
-food=gets.chomp.downcase
+food=gets.chomp
 
 puts="Why is this your favorite food?"
-why=gets.chomp.downcase
+why=gets.chomp
 
 puts "So you like #{food} because #{why}?"
 
